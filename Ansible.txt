@@ -113,6 +113,7 @@ ansible --list-hosts \!control
 
 Lab 5: Ping all the modules
 ansible -m ping all
+ansible -m ping all
 
 
 
